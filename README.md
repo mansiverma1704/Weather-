@@ -34,3 +34,5 @@ Basic knowledge of HTML, CSS, and JavaScript.
 
 A text editor (e.g., VSCode) and a modern web browser (e.g., Chrome).
 
+
+
